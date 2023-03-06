@@ -28,7 +28,7 @@ function handleGradeSubmit(event) {
 
 // Add event listeners to attendance and grade forms
 var attendanceForm = document.querySelector("form:nth-of-type(1)");
-attendanceForm.addEventListener("submit", handleAttendanceSubmit);
+//attendanceForm.addEventListener("submit", handleAttendanceSubmit);
 
 var gradeForm = document.querySelector("form:nth-of-type(2)");
-gradeForm.addEventListener("submit", handleGradeSubmit);
+//gradeForm.addEventListener("submit", handleGradeSubmit);
